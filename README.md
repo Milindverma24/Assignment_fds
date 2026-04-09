@@ -107,3 +107,24 @@ This project demonstrates the complete data science pipeline from raw data proce
 ---
 
 ## 📁 Project Structure
+📂 Assignment_fds
+├── 📄 notebook.ipynb
+├── 📄 README.md
+├── 📂 dataset
+
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository  
+2. Open the Jupyter Notebook  
+3. Run all cells  
+
+---
+
+## ⭐ Acknowledgment
+
+This project was completed as part of the Fundamentals of Data Science coursework.
+
+---
